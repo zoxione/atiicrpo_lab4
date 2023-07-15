@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Client.CopyBook">
+    <Position X="16.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAEhAAAAIABAAAAAgBAAAAAAgAAAAAAAgAI=</HashCode>
+      <FileName>CopyBook.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Client.Book">
+    <Position X="14.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAFAIAhgEAEoAJAAAAAkAAAAAAAACAAAAAACAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Client.FactoryBook">
+    <Position X="12.25" Y="11" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Client.FactoryBook.IdTypeBook" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FactoryBook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>FactoryBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.FictionBook">
+    <Position X="16.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FictionBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.Librarian">
+    <Position X="11.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Librarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.Library">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAAAAAAAQAIAAEAAAAgEAAAAAAUAAAASBAAAA=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Client.Strategy">
+    <Position X="4.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.StrategyIssue">
+    <Position X="3" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyIssue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.StrategyLose">
+    <Position X="6.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyLose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.StrategyReturn">
+    <Position X="6.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.Subscriber">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAIAAQBAAAIACAAAAAAA=</HashCode>
+      <FileName>Subscriber.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Client.TechnicalBook">
+    <Position X="12.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TechnicalBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.User">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAAAAAAIABAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
