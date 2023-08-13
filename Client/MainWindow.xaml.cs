@@ -62,7 +62,7 @@ namespace Client
             bookImage.Width = 80;
             BitmapImage bitmap = new BitmapImage();
             bitmap.BeginInit();
-            bitmap.UriSource = new Uri(@"C:\Users\zoxi\source\repos\atiicrpo_lab4\Client\assets\book.png");
+            bitmap.UriSource = new Uri("pack://application:,,,/assets/book.png");
             bitmap.EndInit();
             bookImage.Source = bitmap;
 
